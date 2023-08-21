@@ -12,4 +12,3 @@ Sales target - This dataset contains sales target amount and date for each produ
 This Project Repository consists of -<br>
 SQL In Depth Analysis - Analysed the dataset by writing complex SQL Queries to gain insights.<br>
 Power BI Dashboard - live Interactive Dashboard for visualizing the insights.<br>
-Alteryx Workflows - Used in RFM Analysis to calculate score for customer segmentation<br>

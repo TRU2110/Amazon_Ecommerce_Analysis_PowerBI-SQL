@@ -2,7 +2,7 @@
 🎯 𝑨𝒃𝒐𝒖𝒕 𝒕𝒉𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕 -<br>
 
 In this project, we have analyzed an Indian Ecommerce store dataset.<br>
-dataset is from Kaggle, and consists of 3 CSV files- List of Orders, Order details.<br>
+dataset is from Kaggle, and consists of 2 CSV files- List of Orders, Order details.<br>
 1) List of Orders - This dataset contains purchase information including Order ID, Date of Purchase and customer details.<br>
 2) Order Details - This dataset contains order ID, price, quantity, profit, category and subcategory of product.<br>
 

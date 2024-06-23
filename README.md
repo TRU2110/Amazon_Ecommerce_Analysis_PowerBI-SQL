@@ -3,17 +3,18 @@
 
 I have created Ecommerce Dashboard using Power BI. <br>
 
-🛒Ecommerce Dashboard Analysis  <br> 🛒
+🛒Ecommerce Dashboard Analysis 🛒<br>
 
 𝗔𝗯𝗼𝘂𝘁 𝘁𝗵𝗲 𝗗𝗮𝘁𝗮𝘀𝗲𝘁: <br>
 In this project, we have analyzed an Indian Ecommerce store dataset.<br>
 Dataset is from Kaggle, and consists of 2 CSV files- List of Orders, Order details.<br>
 1) List of Orders - This dataset contains purchase information including Order ID, Date of Purchase and customer details.<br>
-2) Order Details - This dataset contains order ID, price, quantity, profit, category and subcategory of product.<br><br>
+2) Order Details - This dataset contains order ID, price, quantity, profit, category and subcategory of product.<br>
 
-►𝗗𝗮𝘁𝗮 𝗖𝗹𝗲𝗮𝗻𝗶𝗻𝗴 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲: <br>
+►**𝗗𝗮𝘁𝗮 𝗖𝗹𝗲𝗮𝗻𝗶𝗻𝗴 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲:** <br>
 Data set is Cleaned<br>
-►Data Analysis: SQL using complex query (Queries, Subqueries, Joins, CTE, Window functions, Aggregate functions.) <br>
+
+►**Data Analysis:** SQL using complex query (Queries, Subqueries, Joins, CTE, Window functions, Aggregate functions.) <br>
 
 1. STATISTICS REGARDING DATASET<br>
 •	Total Number of orders  
@@ -42,5 +43,4 @@ I have developed a 3-page Power BI dashboard <br>
 ►Next Page is about Order details left top most corner have three button that are having three horizontal line go to home page, Customer detail, and Insights button. It also have filter, Reset button at top right most corner. This visual is all about Order details. <br>
 ►Last Page is about Customer details left top most corner have three button that are having three horizontal line go to home page, Order detail, and Insights button. It also have filter, Reset button at top right most corner. This visual is all about Customer details. <br>
 
-» You can also check my dashboard https://project.novypro.com/hxJIob      
-
+» **You can also check my dashboard** https://project.novypro.com/hxJIob      

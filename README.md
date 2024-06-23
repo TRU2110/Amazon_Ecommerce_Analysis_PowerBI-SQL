@@ -1,4 +1,4 @@
-# Ecommerce_sales_Dashboard_Analysis
+# Ecommerce Dashboard Analysis
 🎯 𝑨𝒃𝒐𝒖𝒕 𝒕𝒉𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕 -<br>
 
 I have created Ecommerce Dashboard using Power BI. <br>
